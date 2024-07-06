@@ -1,7 +1,8 @@
 # Supervised Machine Learning Using Classification Models
 
 ## DataScience Bootcamp Project 6 (Phase I) : WBS Coding School
-Welcome to my sixth project in bootcamp & second project of Machine Learning using Classification models! This time I am predicting housing prices for a real estate consultancy by using several models of classification techniques in supervised machine learning.
+Welcome to my sixth project in bootcamp & second project of Machine Learning using Classification models! This time I am predicting housing prices for a real estate consultancy by using several models of classification techniques in supervised machine learning. In the first phase of the project, the target variable will be categorical: “Expensive” and “Not expensive”.
+
 
 ## Objective :
 To create a model to predict whether a house is expensive or not using Supervised Machine Learning.
