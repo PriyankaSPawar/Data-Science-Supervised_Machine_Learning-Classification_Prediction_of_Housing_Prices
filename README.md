@@ -3,7 +3,6 @@
 ## DataScience Bootcamp Project 6 (Phase I) : WBS Coding School
 Welcome to my sixth project in bootcamp & second project of Machine Learning using Classification models! This time I am predicting housing prices for a real estate consultancy by using several models of classification techniques in supervised machine learning. In the first phase of the project, the target variable will be categorical: “Expensive” and “Not expensive”.
 
-
 ## Objective :
 To create a model to predict whether a house is expensive or not using Supervised Machine Learning.
 
@@ -43,15 +42,15 @@ This is the first Phase of project using Classification methodology. Real estate
 
 
 ## Deliverables : 
-- The Google Colab Notebook files which contains different ML algorithms attached with this repository.[1](https://github.com/PriyankaSPawar/Data-Science-Supervised_Machine_Learning-Classification_Prediction_of_Housing_Prices/blob/main/I-Housing_Project%20-Using_Decision%20tree_grid.ipynb)
+- The Google Colab Notebook files which contains different ML algorithms attached with this repository [1](https://github.com/PriyankaSPawar/Data-Science-Supervised_Machine_Learning-Classification_Prediction_of_Housing_Prices/blob/main/I-Housing_Project%20-Using_Decision%20tree_grid.ipynb)
   [2](https://github.com/PriyankaSPawar/Data-Science-Supervised_Machine_Learning-Classification_Prediction_of_Housing_Prices/blob/main/II-Housing_Project-Using_one_hot_encoding.ipynb)
   [3](https://github.com/PriyankaSPawar/Data-Science-Supervised_Machine_Learning-Classification_Prediction_of_Housing_Prices/blob/main/III-Housing_Project-Using_Ordinal_encoding.ipynb)
 - Final Notebook with highest accuracy model found[here](https://github.com/PriyankaSPawar/Data-Science-Supervised_Machine_Learning-Classification_Prediction_of_Housing_Prices/blob/main/Final_Housing_Project_File.ipynb)
-- Final submission file for Competition.[here](https://github.com/PriyankaSPawar/Data-Science-Supervised_Machine_Learning-Classification_Prediction_of_Housing_Prices/blob/main/Final_submission_Strimlit_Competition.csv)
+- Final submission file for Competition [here](https://github.com/PriyankaSPawar/Data-Science-Supervised_Machine_Learning-Classification_Prediction_of_Housing_Prices/blob/main/Final_submission_Strimlit_Competition.csv)
 - Medium Article of this Project found [here]()
 
 ## Recommendation for Further Analysis :
 - Use LazyPredict which helps understand which models works better without any parameter tuning.
 - Find out which is the best model for Prediction than KNN,DecisionTree,Random Forest.
 
-**Note** GitHub Repository of the Second phase of this project by using Regression techniques found [here]()
+**Note** GitHub Repository of the Second phase of this project by using Regression techniques found [here](https://github.com/PriyankaSPawar/Data-Science-Supervised_Machine_Learning-Regression_Prediction_of_Exact_Housing_Prices)
