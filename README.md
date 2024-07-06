@@ -5,6 +5,7 @@ Welcome to my sixth project in bootcamp & second project of Machine Learning usi
 
 ## Objective :
 To create a model to predict whether a house is expensive or not using Supervised Machine Learning.
+
 ![image](https://github.com/PriyankaSPawar/Data-Science-Supervised_Machine_Learning-Classification_Prediction_of_Housing_Prices/assets/168557945/047c4b7d-f02a-4f7d-99fe-49f0f6b8b064)
 
 
