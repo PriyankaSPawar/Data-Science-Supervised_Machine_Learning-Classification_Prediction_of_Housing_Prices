@@ -51,3 +51,5 @@ This is the first Phase of project using Classification methodology. Real estate
 ## Recommendation for Further Analysis :
 - Use LazyPredict which helps understand which models works better without any parameter tuning.
 - Find out which is the best model for Prediction than KNN,DecisionTree,Random Forest.
+
+**Note** GitHub Repository of the Second phase of this project by using Regression techniques found [here]()
